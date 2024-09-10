@@ -1,4 +1,5 @@
 # USB-Rubber-Ducky-ATTiny85
+![DigiSparkATTiny85](https://github.com/user-attachments/assets/9ea57870-cde9-4423-8dda-522e0f089335)
 
 ## Overview
 This project involves transforming an ATTiny85 board into a USB Rubber Ducky, a powerful tool for penetration testing that emulates a keyboard and carries out automated keystroke commands.
